@@ -1,0 +1,18 @@
+.btns {
+    display: flex;
+    gap: 25px;
+    margin-right: auto;
+}
+
+.btnItem:hover{
+    background-color: #5061C5;
+    color: #fff;
+    text-transform:unset;
+}
+
+.btnItem {
+    padding: 8px;
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid #271B80;
+}
